@@ -4,7 +4,7 @@ package ec.edu.uagraria.finca;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.api.Test;
 
-class ParcelaAvalosTest {
+class ParcelaAlvearTest {
 
     @Test
     void tresHectareasSonTreintaMilMetros() {
